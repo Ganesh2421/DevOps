@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+}
+
+.main_container{
+	width : 80%;
+	margin: 0 auto;
+	background-color: hsla(62,94%,38%,53%);
+	min-height: 100vh;
+}
+.title{
+	font-family: 'DM Serif Display', serif;
+	align-content:  center;
+	text-align: center;
+	font-size: 2em;
+	margin: 0;
+}
+
+.formfield,.answer{
+	width : 90%;
+	margin: 0 auto;
+	align-content: center;
+	text-align: center;
+}
+.answer{
+	background-color: white;
+	padding-bottom: 10px;
+}
+label{
+	font-size:1.25em;
+	font-family: 'Roboto', sans-serif;
+}
+h3{
+	padding-top: 5px;
+	font-family: 'DM Serif Display', serif;
+
+}
+.answer ul{
+	/*margin: -5px;*/
+	padding:0;
+	width:70%;
+	margin:0 auto;
+	font-family: 'Roboto', sans-serif;
+}
+.keyword{
+	display: block;
+	margin-top:10px;
+	width:100%;
+	height:2em;
+}
+#result_img{
+	width: 90%;
+	height: 90%;
+}
+#btn{
+	margin-top: 20px;
+	width:10%;
+	padding-top: 5px;
+	padding-bottom: 5px; 
+	border-radius: 10px;
+	font-size: 1em;
+	font-family: 'Roboto', sans-serif;	
+
+}
+#btn2{
+	margin-top: 20px;
+	width:30%;
+	padding-top: 5px;
+	padding-bottom: 5px; 
+	border-radius: 10px;
+	font-size: 1em;
+	font-family: 'Roboto', sans-serif;	
+
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+
